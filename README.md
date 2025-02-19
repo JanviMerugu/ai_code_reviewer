@@ -10,7 +10,7 @@
 - **Interactive UI**: Built with **Streamlit** for an easy-to-use experience
 
 ## Links
-- **GitHub**: 
+- **GitHub**: https://github.com/JanviMerugu/ai_code_reviewer.git
 - **App Link**: https://ai-code-reviewer-application1.streamlit.app/
 - **LinkedIn**: 
 
