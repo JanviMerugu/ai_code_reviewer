@@ -2,7 +2,7 @@ import streamlit as st  # Missing import statement
 import os
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyAJbl4S3eRkCRgQSjE3lcLYaoFov8tN2po")
+genai.configure(api_key="api key")
 
 
 # Initialize the model
